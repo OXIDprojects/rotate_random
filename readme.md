@@ -9,12 +9,12 @@ Tested with:
 
 Installation:
 ====================
-- for eShop version 4.4.8: 
+for eShop version 4.4.8: 
 + copy the content of the "/448/copy_this/" folder into the shop root directory
 + if files are uploaded via ftp, be sure to switch to binary transfer mode
 + in eShop backend, activate the module in Master Settings -> Core Settings -> System -> Modules: oxarticlelist=>rotaterandom/rotaterandom
 
-- for eShop version 4.7.3
+for eShop version 4.7.3
 + copy the content of the "/47x/copy_this/" folder into the shop root directory
 + if files are uploaded via ftp, be sure to switch to binary transfer mode
 + in eShop backend go to Extensions -> Modules and select this module in the list, activate it
